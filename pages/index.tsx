@@ -3,6 +3,7 @@ import Intro from "./component/intro";
 import Swap from "./component/swap";
 import Tokenomic from "./component/Tokenomic";
 import Roadmap from "./component/roadmap";
+import Airdrop from "./component/Airdrop";
 import { motion } from "framer-motion";
 
 export default function Home() {
@@ -36,6 +37,7 @@ export default function Home() {
       <Swap />
       <Tokenomic />
       <Roadmap />
+      <Airdrop />
     </div>
   );
 }
