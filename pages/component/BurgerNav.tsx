@@ -17,27 +17,27 @@ function MobileNav({ open }: MobileNavProps) {
 
   return shouldRender ? (
     <div
-      className={`fixed top-0 bottom-0 left-0 h-screen w-[45%] z-20 bg-[rgb(253,221,236)] transform ${
+      className={`fixed top-0 bottom-0 left-0 h-screen w-[45%] z-20 bg-[#AA9C51] transform ${
         open ? "-translate-y-0" : "-translate-y-full"
       } transition-transform duration-300 ease-in-out filter  `}
     >
       <div className="flex flex-col justify-start items-start mt-16 p-5">
-        <a className="my-4 border-b border-[rgb(248,65,162)] w-full">
+        <a className="my-4 border-b border-[#5B060D] w-full">
           <ScrollButton targetId="Info">
             <p className="text-xl mb-4">About</p>
           </ScrollButton>
         </a>
-        <a className="my-4 border-b border-[rgb(248,65,162)] w-full">
+        <a className="my-4 border-b border-[#5B060D] w-full">
           <ScrollButton targetId="swap">
-            <p className="text-xl mb-4">How to get $PINK</p>
+            <p className="text-xl mb-4">How to get $Beanz</p>
           </ScrollButton>
         </a>
-        <a className="my-4 border-b border-[rgb(248,65,162)] w-full">
+        <a className="my-4 border-b border-[#5B060D] w-full">
           <ScrollButton targetId="token">
             <p className="text-xl mb-4">Tokenomics</p>
           </ScrollButton>
         </a>
-        <a className="my-4 border-b border-[rgb(248,65,162)] w-full">
+        <a className="my-4 border-b border-[#5B060D] w-full">
           <ScrollButton targetId="roadmap">
             <p className="text-xl mb-4">Roadmap</p>
           </ScrollButton>

@@ -12,7 +12,7 @@ export default function Header() {
         </ScrollButton>
         <ScrollButton targetId="swap">
           <p className="cursor-pointer text-lg underline active:text-[rgb(214,214,214)] max-[1000px]:hidden">
-            How to get $PINK
+            How to get $Beanz
           </p>
         </ScrollButton>
         <ScrollButton targetId="token">
@@ -30,9 +30,9 @@ export default function Header() {
         <Navbar />
       </div>
       <div className="flex justify-center w-1/3 max-[500px]:w-2/4">
-        <a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x38E3a509C1D388250654d52b218b39a1fe16B2c8">
+        <a href="">
           <div>
-            <p className="cursor-pointer text-lg border-2 rounded-2xl px-6 py-1 hover:bg-[rgba(243,116,182,0.61)] active:bg-[rgb(253,93,176)]">
+            <p className="cursor-pointer text-lg border-2 rounded-2xl px-6 py-1 hover:bg-[#93803C] active:bg-[#93803C]">
               Buy Now!
             </p>
           </div>

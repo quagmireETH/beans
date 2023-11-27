@@ -15,7 +15,7 @@ export default function Roadmap() {
 
       <div className="flex justify-center mt-10">
         <p className="text-xl text-center px-6">
-          Introducing $PINK: The Coin of Animated Antics, Dreams, and
+          Introducing $Beanz: The Coin of Animated Antics, Dreams, and
           Unforgettable Schemes
         </p>
       </div>
@@ -26,7 +26,7 @@ export default function Roadmap() {
           whileInView={{ opacity: 1, x: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
-          className="bg-white bg-opacity-30 p-8 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:mr-0 max-[750px]:w-3/4"
+          className="bg-white bg-opacity-70 p-8 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:mr-0 max-[750px]:w-3/4"
         >
           <p className="mb-4 font-bold text-xl underline">
             Phase 1 : Community Building
@@ -49,7 +49,7 @@ export default function Roadmap() {
           whileInView={{ opacity: 1, x: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
-          className="bg-white bg-opacity-30 p-6 rounded-3xl ml-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:ml-0 max-[750px]:w-3/4"
+          className="bg-white bg-opacity-70 p-6 rounded-3xl ml-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:ml-0 max-[750px]:w-3/4"
         >
           <p className="mb-4 font-bold text-xl underline">
             Phase 2 : Social Presence:
@@ -73,7 +73,7 @@ export default function Roadmap() {
           whileInView={{ opacity: 1, x: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
-          className="bg-white bg-opacity-30 p-6 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:mr-0 max-[750px]:w-3/4"
+          className="bg-white bg-opacity-70 p-6 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:mr-0 max-[750px]:w-3/4"
         >
           <p className="mb-4 font-bold text-xl underline">
             Phase 3 : Marketing
@@ -97,7 +97,7 @@ export default function Roadmap() {
           whileInView={{ opacity: 1, x: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
-          className="bg-white bg-opacity-30 p-6 rounded-3xl ml-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:ml-0 max-[750px]:w-3/4"
+          className="bg-white bg-opacity-70 p-6 rounded-3xl ml-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:ml-0 max-[750px]:w-3/4"
         >
           <p className="mb-4 font-bold text-xl underline">
             Phase 4 : Token Launch
@@ -119,7 +119,7 @@ export default function Roadmap() {
           whileInView={{ opacity: 1, x: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
-          className="bg-white bg-opacity-30 p-8 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:mr-0 max-[750px]:w-3/4"
+          className="bg-white bg-opacity-70 p-8 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:mr-0 max-[750px]:w-3/4"
         >
           <p className="mb-4 font-bold text-xl underline">
             Phase 5 : CoinMarketCap/Coingecko Listing
@@ -142,7 +142,7 @@ export default function Roadmap() {
           whileInView={{ opacity: 1, x: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
-          className="bg-white bg-opacity-30 p-6 rounded-3xl ml-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:ml-0 max-[750px]:w-3/4"
+          className="bg-white bg-opacity-70 p-6 rounded-3xl ml-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:ml-0 max-[750px]:w-3/4"
         >
           <p className="mb-4 font-bold text-xl underline">
             Phase 6 : 10k Holders: Exchange Listing
@@ -165,7 +165,7 @@ export default function Roadmap() {
           whileInView={{ opacity: 1, x: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
-          className="bg-white bg-opacity-30 p-6 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:ml-0 max-[750px]:w-3/4"
+          className="bg-white bg-opacity-70 p-6 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:mr-0 max-[750px]:w-3/4"
         >
           <p className="mb-4 font-bold text-xl underline">
             Phase 7 : Collabs/Partnerships
@@ -188,7 +188,7 @@ export default function Roadmap() {
           whileInView={{ opacity: 1, x: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
-          className="bg-white bg-opacity-30 p-6 rounded-3xl ml-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:ml-0 max-[750px]:w-3/4"
+          className="bg-white bg-opacity-70 p-6 rounded-3xl ml-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:ml-0 max-[750px]:w-3/4"
         >
           <p className="mb-4 font-bold text-xl underline">
             Phase 8 : Official Merch
@@ -210,7 +210,7 @@ export default function Roadmap() {
           whileInView={{ opacity: 1, x: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
-          className="bg-white bg-opacity-30 p-6 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:ml-0 max-[750px]:w-3/4"
+          className="bg-white bg-opacity-70 p-6 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:mr-0 max-[750px]:w-3/4"
         >
           <p className="mb-4 font-bold text-xl underline">
             Phase 9 : App Launch Where Everything will be bought through $Beanz
