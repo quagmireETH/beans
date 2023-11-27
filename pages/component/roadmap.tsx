@@ -61,7 +61,7 @@ export default function Roadmap() {
               shaping the future of digital finance. Follow us on Twitter, join
               our Telegram community, and subscribe to our newsletters for
               real-time updates, insights, and exciting announcements. Social
-              presence is not just about information; it's about building a
+              presence is not just about information; it&apos;s about building a
               global network that shares in the Beanz vision.
             </p>
           </div>
@@ -128,7 +128,7 @@ export default function Roadmap() {
             <p className="mb-2 text-center">
               Elevate the visibility of Beanz on leading cryptocurrency
               platforms. The listing on CoinMarketCap and Coingecko is not just
-              a recognition of our token's legitimacy but a gateway for a
+              a recognition of our token&apos;s legitimacy but a gateway for a
               broader audience to discover and engage with Beanz. This step
               reinforces our commitment to transparency and accessibility within
               the broader crypto community.
@@ -149,11 +149,11 @@ export default function Roadmap() {
           </p>
           <div>
             <p className="mb-2 text-center">
-              As the Beanz community grows to 10,000 strong holders, we're
+              As the Beanz community grows to 10,000 strong holders, we&apos;re
               gearing up for the next major step. A strategic exchange listing
               is on the horizon, providing liquidity, accessibility, and
               exposure to a wider audience. This listing is not just a
-              transactional event; it's a testament to the confidence that the
+              transactional event; it&apos;s a testament to the confidence that the
               broader crypto ecosystem has in the potential of Beanz.
             </p>
           </div>
