@@ -65,7 +65,7 @@ export default function Tokenomic() {
               Purpose
             </p>
             <p className="text-2xl pb-10 w-96 max-[900px]:w-full max-[1000px]:text-xl">
-              Aligning the team's interests with the long-term success of the
+              Aligning the team&apos;s interests with the long-term success of the
               project, fostering commitment and dedication.
             </p>
           </motion.div>
@@ -122,7 +122,7 @@ export default function Tokenomic() {
             </p>
             <p className="text-2xl pb-10 w-96 max-[900px]:w-full max-[1000px]:text-xl">
               Distributing tokens to the community for free, fostering
-              inclusivity, and expanding the project's user base. Airdrops
+              inclusivity, and expanding the project&apos;s user base. Airdrops
               reward early Supporters, Contributors And Holders of Bluechip NFT
               Projects.
             </p>
