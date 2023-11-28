@@ -25,6 +25,11 @@ export default function Header() {
             Roadmap
           </p>
         </ScrollButton>
+        <ScrollButton targetId="Airdrop">
+          <p className="cursor-pointer text-lg underline active:text-[rgb(214,214,214)] max-[1000px]:hidden">
+          Airdrop
+          </p>
+        </ScrollButton>
       </div>
       <div className="pl-6">
         <Navbar />

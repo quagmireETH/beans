@@ -34,10 +34,10 @@ export default function Home() {
         </motion.div>
       </div>
       <Intro />
+      <Airdrop />
       <Swap />
       <Tokenomic />
       <Roadmap />
-      <Airdrop />
     </div>
   );
 }

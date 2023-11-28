@@ -122,7 +122,7 @@ export default function Roadmap() {
           className="bg-white bg-opacity-70 p-8 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:mr-0 max-[750px]:w-3/4"
         >
           <p className="mb-4 font-bold text-xl underline">
-            Phase 5 : CoinMarketCap/Coingecko Listing
+            Phase 5 : CoinMarketCap/ <br className="hidden max-[470px]:block"/> Coingecko Listing
           </p>
           <div>
             <p className="mb-2 text-center">

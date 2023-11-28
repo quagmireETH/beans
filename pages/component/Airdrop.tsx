@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 function Airdrop() {
   return (
-    <div className="relative border-t-8 border-black">
+    <div className="relative border-t-8 border-black" id="Airdrop">
       <img
         className="absolute -z-10 w-screen h-full opacity-70"
         src="/beans_Bg6.jpg"
@@ -20,11 +20,11 @@ function Airdrop() {
       <div className="relative flex justify-center">
         <div>
           <motion.div
-            initial={{ opacity: 0, x: "20%" }}
-            whileInView={{ opacity: 1, x: "0%" }}
+            initial={{ opacity: 0, y: "-20%" }}
+            whileInView={{ opacity: 1, y: "0%" }}
             viewport={{ once: true }}
             transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
-            className="text-center bg-white bg-opacity-70 p-4 mb-10 rounded-3xl shadow-2xl max-[900px]:p-10"
+            className="text-center bg-white bg-opacity-70 p-1 mb-10 rounded-3xl shadow-2xl max-[900px]:p-10"
           >
             <p className="mb-4 text-xl max-[1000px]:text-2xl pt-6 max-[900px]:pt-0">
               In order to participate in the free airdrop, eligibility is
@@ -59,8 +59,8 @@ function Airdrop() {
         <div className="relative flex flex-col justify-center w-3/4">
           <div>
             <motion.div
-              initial={{ opacity: 0, x: "20%" }}
-              whileInView={{ opacity: 1, x: "0%" }}
+              initial={{ opacity: 0, y: "-20%" }}
+              whileInView={{ opacity: 1, y: "0%" }}
               viewport={{ once: true }}
               transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
               className="text-center bg-white bg-opacity-70 p-4 mb-10 rounded-3xl shadow-2xl max-[900px]:p-10"
@@ -78,8 +78,8 @@ function Airdrop() {
 
           <div>
             <motion.div
-              initial={{ opacity: 0, x: "20%" }}
-              whileInView={{ opacity: 1, x: "0%" }}
+              initial={{ opacity: 0, y: "-20%" }}
+              whileInView={{ opacity: 1, y: "0%" }}
               viewport={{ once: true }}
               transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
               className="text-center bg-white bg-opacity-70 p-4 mb-10 rounded-3xl shadow-2xl max-[900px]:p-10"
@@ -97,8 +97,8 @@ function Airdrop() {
 
           <div>
             <motion.div
-              initial={{ opacity: 0, x: "20%" }}
-              whileInView={{ opacity: 1, x: "0%" }}
+              initial={{ opacity: 0, y: "-20%" }}
+              whileInView={{ opacity: 1, y: "0%" }}
               viewport={{ once: true }}
               transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
               className="text-center bg-white bg-opacity-70 p-4 mb-10 rounded-3xl shadow-2xl max-[900px]:p-10"

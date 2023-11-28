@@ -42,6 +42,11 @@ function MobileNav({ open }: MobileNavProps) {
             <p className="text-xl mb-4">Roadmap</p>
           </ScrollButton>
         </a>
+        <a className="my-4 border-b border-[#5B060D] w-full">
+          <ScrollButton targetId="Airdrop">
+            <p className="text-xl mb-4">Airdrop</p>
+          </ScrollButton>
+        </a>
       </div>
     </div>
   ) : null;

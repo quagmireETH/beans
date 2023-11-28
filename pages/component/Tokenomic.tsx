@@ -16,8 +16,8 @@ export default function Tokenomic() {
       <div className="flex flex-col justify-evenly mt-28">
         <div className="flex justify-evenly max-[900px]:flex-col max-[900px]:px-[88px]">
           <motion.div
-            initial={{ opacity: 0, x: "20%" }}
-            whileInView={{ opacity: 1, x: "0%" }}
+            initial={{ opacity: 0, y: "-20%" }}
+            whileInView={{ opacity: 1, y: "0%" }}
             viewport={{ once: true }}
             transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
             className="text-center bg-white bg-opacity-70 p-4 px-[70px] mb-10 rounded-3xl shadow-2xl max-[900px]:p-10"
@@ -28,8 +28,8 @@ export default function Tokenomic() {
             <p className="text-2xl max-[1000px]:text-xl">100,000,000 Beanz</p>
           </motion.div>
           <motion.div
-            initial={{ opacity: 0, x: "20%" }}
-            whileInView={{ opacity: 1, x: "0%" }}
+            initial={{ opacity: 0, y: "-20%" }}
+            whileInView={{ opacity: 1, y: "0%" }}
             viewport={{ once: true }}
             transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
             className="text-center bg-white bg-opacity-70 p-10 rounded-3xl shadow-2xl mb-10"
@@ -45,8 +45,8 @@ export default function Tokenomic() {
 
         <div className="flex justify-evenly max-[900px]:flex-col max-[900px]:px-[88px]">
           <motion.div
-            initial={{ opacity: 0, x: "-20%" }}
-            whileInView={{ opacity: 1, x: "0%" }}
+            initial={{ opacity: 0, y: "-20%" }}
+            whileInView={{ opacity: 1, y: "0%" }}
             viewport={{ once: true }}
             transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
             className="text-center bg-white bg-opacity-70 p-4 rounded-3xl shadow-2xl mb-10 max-[900px]:p-10"
@@ -61,24 +61,20 @@ export default function Tokenomic() {
             </p>
             <p className="text-2xl max-[1000px]:text-xl">12 months</p>
 
-            <p className="pt-10 text-3xl max-[1000px]:text-2xl">
-              Purpose
-            </p>
+            <p className="pt-10 text-3xl max-[1000px]:text-2xl">Purpose</p>
             <p className="text-2xl pb-10 w-96 max-[900px]:w-full max-[1000px]:text-xl">
-              Aligning the team&apos;s interests with the long-term success of the
-              project, fostering commitment and dedication.
+              Aligning the team&apos;s interests with the long-term success of
+              the project, fostering commitment and dedication.
             </p>
           </motion.div>
           <motion.div
-            initial={{ opacity: 0, x: "-20%" }}
-            whileInView={{ opacity: 1, x: "0%" }}
+            initial={{ opacity: 0, y: "-20%" }}
+            whileInView={{ opacity: 1, y: "0%" }}
             viewport={{ once: true }}
             transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
             className="text-center bg-white bg-opacity-70 px-4 rounded-3xl shadow-2xl mb-10"
           >
-            <p className="mb-4 mt-10 text-3xl max-[1000px]:text-2xl">
-              Presale
-            </p>
+            <p className="mb-4 mt-10 text-3xl max-[1000px]:text-2xl">Presale</p>
             <p className="text-2xl max-[1000px]:text-xl">65%</p>
 
             <p className="mb-4 pt-10 text-3xl max-[1000px]:text-2xl">
@@ -86,9 +82,7 @@ export default function Tokenomic() {
             </p>
             <p className="text-2xl max-[1000px]:text-xl">65,000,000 Beanz</p>
 
-            <p className="mb-4 pt-10 text-3xl max-[1000px]:text-2xl">
-              Purpose
-            </p>
+            <p className="mb-4 pt-10 text-3xl max-[1000px]:text-2xl">Purpose</p>
             <p className="text-2xl pb-10 w-96 max-[900px]:w-full max-[1000px]:text-xl">
               Fundraising for project development, marketing, and ecosystem
               growth. Presale participants contribute to the initial liquidity
@@ -101,8 +95,8 @@ export default function Tokenomic() {
       <div className="flex flex-col justify-evenly mt-28">
         <div className="flex justify-evenly max-[900px]:flex-col max-[900px]:px-[88px]">
           <motion.div
-            initial={{ opacity: 0, x: "20%" }}
-            whileInView={{ opacity: 1, x: "0%" }}
+            initial={{ opacity: 0, y: "-20%" }}
+            whileInView={{ opacity: 1, y: "0%" }}
             viewport={{ once: true }}
             transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
             className="text-center bg-white bg-opacity-70 px-4 mb-10 rounded-3xl shadow-2xl max-[900px]:p-10"
@@ -117,9 +111,7 @@ export default function Tokenomic() {
             </p>
             <p className="text-2xl max-[1000px]:text-xl">20,000,000 Beanz</p>
 
-            <p className="mb-4 pt-10 text-3xl max-[1000px]:text-2xl">
-              Purpose
-            </p>
+            <p className="mb-4 pt-10 text-3xl max-[1000px]:text-2xl">Purpose</p>
             <p className="text-2xl pb-10 w-96 max-[900px]:w-full max-[1000px]:text-xl">
               Distributing tokens to the community for free, fostering
               inclusivity, and expanding the project&apos;s user base. Airdrops
@@ -128,8 +120,8 @@ export default function Tokenomic() {
             </p>
           </motion.div>
           <motion.div
-            initial={{ opacity: 0, x: "20%" }}
-            whileInView={{ opacity: 1, x: "0%" }}
+            initial={{ opacity: 0, y: "-20%" }}
+            whileInView={{ opacity: 1, y: "0%" }}
             viewport={{ once: true }}
             transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
             className="text-center bg-white bg-opacity-70 px-4 rounded-3xl shadow-2xl mb-10"
@@ -144,9 +136,7 @@ export default function Tokenomic() {
             </p>
             <p className="text-2xl max-[1000px]:text-xl">10,000,000 Beanz</p>
 
-            <p className="mb-4 pt-10 text-3xl max-[1000px]:text-2xl">
-              Purpose
-            </p>
+            <p className="mb-4 pt-10 text-3xl max-[1000px]:text-2xl">Purpose</p>
             <p className="text-2xl pb-10 w-96 max-[900px]:w-full max-[1000px]:text-xl">
               Funding strategic marketing campaigns, partnerships, and
               initiatives to increase visibility, awareness, and adoption of

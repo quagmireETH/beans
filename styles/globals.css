@@ -7,7 +7,7 @@
   src: url("./fonts/pinzelan.regular.ttf");
 }
 
-p, li {
+p, li, div {
   font-family: 'pinzelan';
 }
 
