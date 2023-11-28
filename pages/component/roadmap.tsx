@@ -22,8 +22,8 @@ export default function Roadmap() {
 
       <div className="flex justify-end mt-20 max-[750px]:justify-center">
         <motion.div
-          initial={{ opacity: 0, x: "-20%" }}
-          whileInView={{ opacity: 1, x: "0%" }}
+          initial={{ opacity: 0, y: "-20%" }}
+          whileInView={{ opacity: 1, y: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
           className="bg-white bg-opacity-70 p-8 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:mr-0 max-[750px]:w-3/4"
@@ -45,8 +45,8 @@ export default function Roadmap() {
       </div>
       <div className="flex justify-start mt-14 max-[750px]:justify-center">
         <motion.div
-          initial={{ opacity: 0, x: "20%" }}
-          whileInView={{ opacity: 1, x: "0%" }}
+          initial={{ opacity: 0, y: "-20%" }}
+          whileInView={{ opacity: 1, y: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
           className="bg-white bg-opacity-70 p-6 rounded-3xl ml-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:ml-0 max-[750px]:w-3/4"
@@ -69,8 +69,8 @@ export default function Roadmap() {
       </div>
       <div className="flex justify-end mt-14 max-[750px]:justify-center">
         <motion.div
-          initial={{ opacity: 0, x: "-20%" }}
-          whileInView={{ opacity: 1, x: "0%" }}
+          initial={{ opacity: 0, y: "-20%" }}
+          whileInView={{ opacity: 1, y: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
           className="bg-white bg-opacity-70 p-6 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:mr-0 max-[750px]:w-3/4"
@@ -93,8 +93,8 @@ export default function Roadmap() {
       </div>
       <div className="flex justify-start mt-14 max-[750px]:justify-center">
         <motion.div
-          initial={{ opacity: 0, x: "20%" }}
-          whileInView={{ opacity: 1, x: "0%" }}
+          initial={{ opacity: 0, y: "-20%" }}
+          whileInView={{ opacity: 1, y: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
           className="bg-white bg-opacity-70 p-6 rounded-3xl ml-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:ml-0 max-[750px]:w-3/4"
@@ -115,14 +115,15 @@ export default function Roadmap() {
       </div>
       <div className="flex justify-end mt-20 max-[750px]:justify-center">
         <motion.div
-          initial={{ opacity: 0, x: "-20%" }}
-          whileInView={{ opacity: 1, x: "0%" }}
+          initial={{ opacity: 0, y: "-20%" }}
+          whileInView={{ opacity: 1, y: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
           className="bg-white bg-opacity-70 p-8 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:mr-0 max-[750px]:w-3/4"
         >
           <p className="mb-4 font-bold text-xl underline">
-            Phase 5 : CoinMarketCap/ <br className="hidden max-[470px]:block"/> Coingecko Listing
+            Phase 5 : CoinMarketCap/ <br className="hidden max-[470px]:block" />{" "}
+            Coingecko Listing
           </p>
           <div>
             <p className="mb-2 text-center">
@@ -138,8 +139,8 @@ export default function Roadmap() {
       </div>
       <div className="flex justify-start mt-14 max-[750px]:justify-center">
         <motion.div
-          initial={{ opacity: 0, x: "20%" }}
-          whileInView={{ opacity: 1, x: "0%" }}
+          initial={{ opacity: 0, y: "-20%" }}
+          whileInView={{ opacity: 1, y: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
           className="bg-white bg-opacity-70 p-6 rounded-3xl ml-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:ml-0 max-[750px]:w-3/4"
@@ -153,16 +154,16 @@ export default function Roadmap() {
               gearing up for the next major step. A strategic exchange listing
               is on the horizon, providing liquidity, accessibility, and
               exposure to a wider audience. This listing is not just a
-              transactional event; it&apos;s a testament to the confidence that the
-              broader crypto ecosystem has in the potential of Beanz.
+              transactional event; it&apos;s a testament to the confidence that
+              the broader crypto ecosystem has in the potential of Beanz.
             </p>
           </div>
         </motion.div>
       </div>
       <div className="flex justify-end mt-14 max-[750px]:justify-center">
         <motion.div
-          initial={{ opacity: 0, x: "20%" }}
-          whileInView={{ opacity: 1, x: "0%" }}
+          initial={{ opacity: 0, y: "-20%" }}
+          whileInView={{ opacity: 1, y: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
           className="bg-white bg-opacity-70 p-6 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:mr-0 max-[750px]:w-3/4"
@@ -184,8 +185,8 @@ export default function Roadmap() {
       </div>
       <div className="flex justify-start mt-14 max-[750px]:justify-center">
         <motion.div
-          initial={{ opacity: 0, x: "20%" }}
-          whileInView={{ opacity: 1, x: "0%" }}
+          initial={{ opacity: 0, y: "-20%" }}
+          whileInView={{ opacity: 1, y: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
           className="bg-white bg-opacity-70 p-6 rounded-3xl ml-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:ml-0 max-[750px]:w-3/4"
@@ -206,8 +207,8 @@ export default function Roadmap() {
       </div>
       <div className="flex justify-end mt-14 max-[750px]:justify-center">
         <motion.div
-          initial={{ opacity: 0, x: "20%" }}
-          whileInView={{ opacity: 1, x: "0%" }}
+          initial={{ opacity: 0, y: "-20%" }}
+          whileInView={{ opacity: 1, y: "0%" }}
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
           className="bg-white bg-opacity-70 p-6 rounded-3xl mr-48 w-1/3 max-[1200px]:w-1/2 max-[750px]:mr-0 max-[750px]:w-3/4"
