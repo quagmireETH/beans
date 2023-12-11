@@ -74,25 +74,23 @@ export default function Tokenomic() {
             transition={{ delay: 0.2, duration: 0.8, type: "spring" }}
             className="text-center bg-white bg-opacity-70 px-4 rounded-3xl shadow-2xl mb-10"
           >
-            <p className="mb-4 mt-10 text-3xl max-[1000px]:text-2xl">Presale</p>
-            <p className="text-2xl max-[1000px]:text-xl">65%</p>
+            <p className="mb-4 mt-10 text-3xl max-[1000px]:text-2xl">Public</p>
+            <p className="text-2xl max-[1000px]:text-xl">85%</p>
 
             <p className="mb-4 pt-10 text-3xl max-[1000px]:text-2xl">
               Allocation
             </p>
-            <p className="text-2xl max-[1000px]:text-xl">65,000,000 Beanz</p>
+            <p className="text-2xl max-[1000px]:text-xl">85,000,000 Beanz</p>
 
             <p className="mb-4 pt-10 text-3xl max-[1000px]:text-2xl">Purpose</p>
             <p className="text-2xl pb-10 w-96 max-[900px]:w-full max-[1000px]:text-xl">
-              Fundraising for project development, marketing, and ecosystem
-              growth. Presale participants contribute to the initial liquidity
-              pool and community building.
+              85% of the Beanz Supply will be available for the buy and sell.
             </p>
           </motion.div>
         </div>
       </div>
 
-      <div className="flex flex-col justify-evenly mt-28">
+      <div className="flex flex-col justify-evenly mt-6">
         <div className="flex justify-evenly max-[900px]:flex-col max-[900px]:px-[88px]">
           <motion.div
             initial={{ opacity: 0, y: "-20%" }}
@@ -104,19 +102,17 @@ export default function Tokenomic() {
             <p className="mb-4 pt-10 text-3xl max-[1000px]:text-2xl max-[900px]:pt-0">
               Airdrop
             </p>
-            <p className="text-2xl max-[1000px]:text-xl">20%</p>
+            <p className="text-2xl max-[1000px]:text-xl">5%</p>
 
             <p className="mb-4 pt-10 text-3xl max-[1000px]:text-2xl">
               Allocation
             </p>
-            <p className="text-2xl max-[1000px]:text-xl">20,000,000 Beanz</p>
+            <p className="text-2xl max-[1000px]:text-xl">5,000,000 Beanz</p>
 
             <p className="mb-4 pt-10 text-3xl max-[1000px]:text-2xl">Purpose</p>
             <p className="text-2xl pb-10 w-96 max-[900px]:w-full max-[1000px]:text-xl">
-              Distributing tokens to the community for free, fostering
-              inclusivity, and expanding the project&apos;s user base. Airdrops
-              reward early Supporters, Contributors And Holders of Bluechip NFT
-              Projects.
+              It will be airdrop to our earlier supporters who completed the
+              tasks by inviting friends , and retweeting tweets.
             </p>
           </motion.div>
           <motion.div
@@ -129,18 +125,19 @@ export default function Tokenomic() {
             <p className="mb-4 mt-10 text-3xl max-[1000px]:text-2xl">
               Marketing
             </p>
-            <p className="text-2xl max-[1000px]:text-xl">10%</p>
+            <p className="text-2xl max-[1000px]:text-xl">5%</p>
 
             <p className="mb-4 pt-10 text-3xl max-[1000px]:text-2xl">
               Allocation
             </p>
-            <p className="text-2xl max-[1000px]:text-xl">10,000,000 Beanz</p>
+            <p className="text-2xl max-[1000px]:text-xl">5,000,000 Beanz</p>
 
             <p className="mb-4 pt-10 text-3xl max-[1000px]:text-2xl">Purpose</p>
             <p className="text-2xl pb-10 w-96 max-[900px]:w-full max-[1000px]:text-xl">
               Funding strategic marketing campaigns, partnerships, and
               initiatives to increase visibility, awareness, and adoption of
-              Beanz within the broader crypto community.
+              Beanz within the broader crypto community. Please add this in the
+              beanzcoin tokenomics section. And remove the earlier one.
             </p>
           </motion.div>
         </div>
