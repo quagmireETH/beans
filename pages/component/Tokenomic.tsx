@@ -136,8 +136,7 @@ export default function Tokenomic() {
             <p className="text-2xl pb-10 w-96 max-[900px]:w-full max-[1000px]:text-xl">
               Funding strategic marketing campaigns, partnerships, and
               initiatives to increase visibility, awareness, and adoption of
-              Beanz within the broader crypto community. Please add this in the
-              beanzcoin tokenomics section. And remove the earlier one.
+              Beanz within the broader crypto community.
             </p>
           </motion.div>
         </div>
