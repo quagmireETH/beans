@@ -35,10 +35,10 @@ export default function Swap() {
             </div>
             <div>
               <p className="text-2xl mt-2 ">
-                You can download a metamask wallet or any other type of your
+                You can download a phantom wallet or any other type of your
                 choice from the app store or google play store for free. Desktop
                 users, download the google chrome extension by going to
-                metamask.io or again any other wallet of your choice.
+                phantom.io or again any other wallet of your choice.
               </p>
             </div>
           </div>
@@ -58,13 +58,13 @@ export default function Swap() {
           </div>
           <div>
             <div>
-              <p className="text-3xl font-bold max-[1000px]:text-center max-[1000px]:mb-5">Get some eth</p>
+              <p className="text-3xl font-bold max-[1000px]:text-center max-[1000px]:mb-5">Get some SOL</p>
             </div>
             <div>
               <p className="text-2xl mt-2 ">
-                Now get Some ETH by buying them or swapping stablecoin into eth
-                to be able to switch to $Beanz. If you don&apos;t have any ETH,
-                you can buy directly on metamask, transfer from another wallet,
+                Now get Some SOL by buying them or swapping stablecoin into sol
+                to be able to switch to $Beanz. If you don&apos;t have any SOL,
+                you can buy directly on phantom, transfer from another wallet,
                 buy on another exchange or ask to a friend to send you some and
                 send it to your wallet.
               </p>
@@ -96,8 +96,8 @@ export default function Swap() {
                   Be sure to always use a burner!{" "}
                 </span>
                 Go to app.uniswap.org in google chrome or on the browser inside
-                your Metamask app. Connect your wallet. Paste the $Beanz token
-                address into Uniswap, select Beanz, and confirm. When Metamask
+                your phantom app. Connect your wallet. Paste the $Beanz token
+                address into Uniswap, select Beanz, and confirm. When phantom
                 prompts you for a wallet signature, you can sign, but always
                 double check.
               </p>
@@ -120,12 +120,12 @@ export default function Swap() {
           <div>
             <div>
               <p className="text-3xl font-bold max-[1000px]:text-center max-[1000px]:mb-5">
-                Swap your ETH for $Beanz
+                Swap your SOL for $Beanz
               </p>
             </div>
             <div>
               <p className="text-2xl mt-2 ">
-                Now switch your ETH for $Beanz. We have ZERO taxes so you
+                Now switch your SOL for $Beanz. We have ZERO taxes so you
                 don&apos;t need to worry about buying with a specific slippage,
                 although you may need to use slippage during times of market
                 volatility.
