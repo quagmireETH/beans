@@ -27,7 +27,7 @@ export default function Swap() {
           className="w-3/4 flex items-center border-4 border-black bg-[#cccccc] rounded-3xl shadow-xl p-4"
         >
           <div className="flex items-center ml-3 mr-10 max-[1000px]:hidden">
-            <img className="w-72" src="/MetaMask.png" alt="" />
+            <img className="w-72" src="/MetaMask.svg" alt="" />
           </div>
           <div>
             <div>
